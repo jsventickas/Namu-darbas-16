@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: verdana;
+  padding: 20px 0px 10px 10px;
+}
+
+.count {
+  display: flex;
+  margin-bottom: 10px;
+}
+.count p {
+  margin: 0 15px 0 15px;
+}
+.number {
+  margin-bottom: 10px;
+}
+.buttons {
+  margin-top: 10px;
+}
